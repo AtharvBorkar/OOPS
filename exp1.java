@@ -7,5 +7,6 @@ class Pen {
     }
 }
 public class exp1 {
-    
-}
+    public static void main(String args[]) {
+        Pen pen1 = new Pen();
+    }}
