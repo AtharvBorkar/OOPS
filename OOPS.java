@@ -5,8 +5,12 @@ class Pen {
     public void write() {
         System.out.println("writing something");
     }
+
+    public void printColor() {
+        System.out.println(this.color);
+    }
 }
-public class exp1 {
+public class OOPS {
     public static void main(String args[]) {
         Pen pen1 = new Pen();
     }}
