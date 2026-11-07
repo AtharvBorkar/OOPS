@@ -1,6 +1,6 @@
 class Pen {
     String color;
-    String type;
+    String type; //ballpoint; gel 
 }
 public class exp1 {
     
